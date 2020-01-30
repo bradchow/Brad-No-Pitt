@@ -87,7 +87,7 @@ if (len(sys.argv) == 2):
               'inpuType':'co_id',
               'TYPEK':'all',
               'isnew':'false',
-              'co_id':'2002',
+              'co_id':NO,
               'year':str(year)
           })    
             
